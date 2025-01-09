@@ -5,6 +5,8 @@
 ## Project Overview
 This repository contains the mechanical design files, images, and parts for the Tea Machine project. The Tea Machine is designed to efficiently brew tea with customizable options and includes components for liquid dispensing, heating, and user interaction.
 ![Assembly Evolution GIF](./images/teaMachineAssembly_from_rev_0_to_rev_10.gif)
+![Exploded view front](./images/exploded_view_front.png)
+![Exploded view back](./images/exploded_view_back.png)
 
 ## Directory Details
 
